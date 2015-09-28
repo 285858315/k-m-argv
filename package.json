@@ -1,0 +1,26 @@
+{
+  "name": "k-m-argv",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "k-m-file": "^0.0.2",
+    "k-m-message": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/285858315/k-m-argv.git"
+  },
+  "keywords": [
+    "k-m"
+  ],
+  "author": "285858315@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/285858315/k-m-argv/issues"
+  },
+  "homepage": "https://github.com/285858315/k-m-argv"
+}
