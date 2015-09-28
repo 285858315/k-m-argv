@@ -20,7 +20,7 @@ function _check(){
         }
     }
     for(var i in this.data){
-        if(!this.data[i]){
+        if(typeof this.data[i] == "undefined"){
             res_key = 1;
             console.log(i+"未知");
             break;
